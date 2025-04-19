@@ -1,0 +1,15 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
+  "author": "Jesus Santisteban <jesus.santisteban@gmail.com>",
+  "license": "MIT",
+  "description": "A utility to manage dates in format timestamp and long time."
+}
