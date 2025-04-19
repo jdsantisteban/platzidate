@@ -1,4 +1,4 @@
-# PlatziDate
+# Date Formatter
 
 A utility to manage dates in timestamp and long time format.
 
